@@ -3,7 +3,6 @@ PATH
   specs:
     echosign (1.5.2)
       httparty (~> 0.16)
-      json (~> 2)
       oauth2 (~> 1)
 
 GEM
