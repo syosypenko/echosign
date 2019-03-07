@@ -29,6 +29,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "yard", "~> 0.9"
 
   spec.add_dependency "httparty", "~> 0.16"
-  spec.add_dependency "json", "~> 2"
   spec.add_dependency "oauth2", "~> 1"
 end
